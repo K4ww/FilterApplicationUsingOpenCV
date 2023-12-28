@@ -12,6 +12,7 @@ Install the required packages using:
 
 ```bash
 pip install opencv-python
+```bash
 
 ## Usage
 Run the script using the following command:
